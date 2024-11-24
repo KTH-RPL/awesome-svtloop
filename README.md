@@ -2,7 +2,7 @@
 
 
 
-## Haomo Dataset
+## MCD Dataset
 
 <img src="https://github.com/KTH-RPL/awesome-svtloop/blob/main/MCD_dataset_descriptors.gif" >  
 
