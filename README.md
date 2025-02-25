@@ -1,6 +1,8 @@
 # awesome-svtloop
 
+A global descriptor generation method for LiDAR point cloud.
 
+Code will be avaiable after review process.
 
 ## MCD Dataset
 
